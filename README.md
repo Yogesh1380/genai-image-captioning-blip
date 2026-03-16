@@ -92,7 +92,7 @@ demo.launch(share=True, server_port=int(os.environ['PORT1']))
 
 ### OUTPUT :
 
-
+![image alt](https://github.com/Yogesh1380/genai-image-captioning-blip/blob/4490292e0936c3693b56d3f8336273d29f9f21a0/Screenshot%202026-03-16%20155515.png)
 
 
 ### RESULT:
